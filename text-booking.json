@@ -1,0 +1,9 @@
+{
+  "customerName": "Voice Test",
+  "numberOfGuests": 4,
+  "bookingDate": "2024-12-20",
+  "bookingTime": "20:00",
+  "cuisinePreference": "Chinese",
+  "specialRequests": "Window seat please",
+  "location": "Chennai"
+}
